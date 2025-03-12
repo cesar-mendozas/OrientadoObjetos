@@ -1,0 +1,10 @@
+D:\Disco E\CESAR\CAPACITACIONES\VISUAL STUDIO\OrientadoObjetos\ControlVentas\ControlVentas\bin\Debug\ControlVentas.exe.config
+D:\Disco E\CESAR\CAPACITACIONES\VISUAL STUDIO\OrientadoObjetos\ControlVentas\ControlVentas\bin\Debug\ControlVentas.exe
+D:\Disco E\CESAR\CAPACITACIONES\VISUAL STUDIO\OrientadoObjetos\ControlVentas\ControlVentas\bin\Debug\ControlVentas.pdb
+D:\Disco E\CESAR\CAPACITACIONES\VISUAL STUDIO\OrientadoObjetos\ControlVentas\ControlVentas\obj\Debug\ControlVentas.csproj.AssemblyReference.cache
+D:\Disco E\CESAR\CAPACITACIONES\VISUAL STUDIO\OrientadoObjetos\ControlVentas\ControlVentas\obj\Debug\ControlVentas.frmVentas.resources
+D:\Disco E\CESAR\CAPACITACIONES\VISUAL STUDIO\OrientadoObjetos\ControlVentas\ControlVentas\obj\Debug\ControlVentas.Properties.Resources.resources
+D:\Disco E\CESAR\CAPACITACIONES\VISUAL STUDIO\OrientadoObjetos\ControlVentas\ControlVentas\obj\Debug\ControlVentas.csproj.GenerateResource.cache
+D:\Disco E\CESAR\CAPACITACIONES\VISUAL STUDIO\OrientadoObjetos\ControlVentas\ControlVentas\obj\Debug\ControlVentas.csproj.CoreCompileInputs.cache
+D:\Disco E\CESAR\CAPACITACIONES\VISUAL STUDIO\OrientadoObjetos\ControlVentas\ControlVentas\obj\Debug\ControlVentas.exe
+D:\Disco E\CESAR\CAPACITACIONES\VISUAL STUDIO\OrientadoObjetos\ControlVentas\ControlVentas\obj\Debug\ControlVentas.pdb
