@@ -14,7 +14,7 @@ namespace ControlVentas
     public partial class frmVentas : Form
     {
 
-        static string[] productos = { "Monitor", "CPU", "Teclado", "Mouse", "Parlantes", "Impresora", "Estabilizador" };
+        static string[] productos = { "Monitor", "CPU", "Teclado", "Mouse", "Parlantes", "Impresora", "Estabilizador" , "Mousepack"  };
         ArrayList aProductos = new ArrayList(productos);
         public frmVentas()
         {
